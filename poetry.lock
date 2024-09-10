@@ -3629,13 +3629,13 @@ test = ["cloudpickle (>=1.3)", "coverage (==7.3.0)", "fastapi (<0.100.0)", "onnx
 
 [[package]]
 name = "pytorch-optimizer"
-version = "3.1.1"
+version = "3.1.2"
 description = "optimizer & lr scheduler & objective function collections in PyTorch"
 optional = false
 python-versions = "<4.0.0,>=3.8"
 files = [
-    {file = "pytorch_optimizer-3.1.1-py3-none-any.whl", hash = "sha256:aa56be14f85ba1935bb81f513f8e03733616c5b329c24043a9471469f30d762b"},
-    {file = "pytorch_optimizer-3.1.1.tar.gz", hash = "sha256:9244c7ad7143d4bc468c97ba5aab22415a87a98e5dd8f45bafd6eb0f02a315db"},
+    {file = "pytorch_optimizer-3.1.2-py3-none-any.whl", hash = "sha256:1b7946fb8894092aeaa7dd382ea41e19989d10779b00c35877b2e070aabc9c2a"},
+    {file = "pytorch_optimizer-3.1.2.tar.gz", hash = "sha256:7bc8a76b67c736d8346bb468f7ae6a635e69c097e0d457e50606ef88d7cda2a2"},
 ]
 
 [package.dependencies]
